@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 test file for clone
 added new line from clone repo
 
+=======
+added from subku repo
+>>>>>>> b14fd0081e925053b5a8f4e5a7be518645777c1f
